@@ -1,0 +1,535 @@
+[12-Mar-2020 14:09:16 UTC] PHP Warning:  include(../lib/lib.php): failed to open stream: No such file or directory in /home/cy9j1jf15dzs/public_html/backend/api/saleList/delete1.php on line 2
+[12-Mar-2020 14:09:16 UTC] PHP Warning:  include(): Failed opening '../lib/lib.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/cy9j1jf15dzs/public_html/backend/api/saleList/delete1.php on line 2
+[12-Mar-2020 14:09:17 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function getSql() in /home/cy9j1jf15dzs/public_html/backend/api/saleList/delete1.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/cy9j1jf15dzs/public_html/backend/api/saleList/delete1.php on line 4
+[12-Mar-2020 14:10:05 UTC] PHP Warning:  include(../api/lib/lib.php): failed to open stream: No such file or directory in /home/cy9j1jf15dzs/public_html/backend/api/saleList/delete1.php on line 2
+[12-Mar-2020 14:10:05 UTC] PHP Warning:  include(): Failed opening '../api/lib/lib.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/cy9j1jf15dzs/public_html/backend/api/saleList/delete1.php on line 2
+[12-Mar-2020 14:10:05 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function getSql() in /home/cy9j1jf15dzs/public_html/backend/api/saleList/delete1.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/cy9j1jf15dzs/public_html/backend/api/saleList/delete1.php on line 4
+[12-Mar-2020 14:11:22 UTC] PHP Warning:  include_once(../api/lib/lib.php): failed to open stream: No such file or directory in /home/cy9j1jf15dzs/public_html/backend/api/saleList/delete1.php on line 2
+[12-Mar-2020 14:11:22 UTC] PHP Warning:  include_once(): Failed opening '../api/lib/lib.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/cy9j1jf15dzs/public_html/backend/api/saleList/delete1.php on line 2
+[12-Mar-2020 14:13:33 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ',' or ')' in /home/cy9j1jf15dzs/public_html/backend/api/saleList/delete1.php on line 6
+[12-Mar-2020 14:14:34 UTC] PHP Warning:  include_once(../api/lib/lib.php): failed to open stream: No such file or directory in /home/cy9j1jf15dzs/public_html/backend/api/saleList/delete1.php on line 2
+[12-Mar-2020 14:14:34 UTC] PHP Warning:  include_once(): Failed opening '../api/lib/lib.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/cy9j1jf15dzs/public_html/backend/api/saleList/delete1.php on line 2
+[12-Mar-2020 14:14:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function getSql() in /home/cy9j1jf15dzs/public_html/backend/api/saleList/delete1.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/cy9j1jf15dzs/public_html/backend/api/saleList/delete1.php on line 6
+[12-Mar-2020 14:15:51 UTC] PHP Warning:  include_once(../api/lib/lib.php): failed to open stream: No such file or directory in /home/cy9j1jf15dzs/public_html/backend/api/saleList/delete1.php on line 2
+[12-Mar-2020 14:15:51 UTC] PHP Warning:  include_once(): Failed opening '../api/lib/lib.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/cy9j1jf15dzs/public_html/backend/api/saleList/delete1.php on line 2
+[12-Mar-2020 14:15:51 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function getSql() in /home/cy9j1jf15dzs/public_html/backend/api/saleList/delete1.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/cy9j1jf15dzs/public_html/backend/api/saleList/delete1.php on line 6
+[12-Mar-2020 14:16:18 UTC] PHP Warning:  include_once(../api/lib/lib.php): failed to open stream: No such file or directory in /home/cy9j1jf15dzs/public_html/backend/api/saleList/delete1.php on line 2
+[12-Mar-2020 14:16:18 UTC] PHP Warning:  include_once(): Failed opening '../api/lib/lib.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/cy9j1jf15dzs/public_html/backend/api/saleList/delete1.php on line 2
+[12-Mar-2020 14:16:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function getSql() in /home/cy9j1jf15dzs/public_html/backend/api/saleList/delete1.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/cy9j1jf15dzs/public_html/backend/api/saleList/delete1.php on line 6
+[12-Mar-2020 14:16:28 UTC] PHP Warning:  include_once(../api/lib/lib.php): failed to open stream: No such file or directory in /home/cy9j1jf15dzs/public_html/backend/api/saleList/delete1.php on line 2
+[12-Mar-2020 14:16:28 UTC] PHP Warning:  include_once(): Failed opening '../api/lib/lib.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/cy9j1jf15dzs/public_html/backend/api/saleList/delete1.php on line 2
+[12-Mar-2020 14:16:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function getSql() in /home/cy9j1jf15dzs/public_html/backend/api/saleList/delete1.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/cy9j1jf15dzs/public_html/backend/api/saleList/delete1.php on line 6
+[12-Mar-2020 14:16:42 UTC] PHP Warning:  include_once(../api/lib/lib.php): failed to open stream: No such file or directory in /home/cy9j1jf15dzs/public_html/backend/api/saleList/delete1.php on line 2
+[12-Mar-2020 14:16:42 UTC] PHP Warning:  include_once(): Failed opening '../api/lib/lib.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/cy9j1jf15dzs/public_html/backend/api/saleList/delete1.php on line 2
+[12-Mar-2020 14:17:19 UTC] PHP Warning:  include_once(../api/lib/lib.php): failed to open stream: No such file or directory in /home/cy9j1jf15dzs/public_html/backend/api/saleList/delete1.php on line 2
+[12-Mar-2020 14:17:19 UTC] PHP Warning:  include_once(): Failed opening '../api/lib/lib.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/cy9j1jf15dzs/public_html/backend/api/saleList/delete1.php on line 2
+[12-Mar-2020 14:17:19 UTC] PHP Notice:  Undefined index: userId in /home/cy9j1jf15dzs/public_html/backend/api/saleList/delete1.php on line 5
+[12-Mar-2020 14:17:53 UTC] PHP Warning:  include_once(../api/lib/lib.php): failed to open stream: No such file or directory in /home/cy9j1jf15dzs/public_html/backend/api/saleList/delete1.php on line 2
+[12-Mar-2020 14:17:53 UTC] PHP Warning:  include_once(): Failed opening '../api/lib/lib.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/cy9j1jf15dzs/public_html/backend/api/saleList/delete1.php on line 2
+[12-Mar-2020 14:17:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function getSql() in /home/cy9j1jf15dzs/public_html/backend/api/saleList/delete1.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/cy9j1jf15dzs/public_html/backend/api/saleList/delete1.php on line 7
+[12-Mar-2020 14:20:20 UTC] PHP Warning:  include_once(../api/lib/lib.php): failed to open stream: No such file or directory in /home/cy9j1jf15dzs/public_html/backend/api/saleList/delete1.php on line 2
+[12-Mar-2020 14:20:20 UTC] PHP Warning:  include_once(): Failed opening '../api/lib/lib.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/cy9j1jf15dzs/public_html/backend/api/saleList/delete1.php on line 2
+[12-Mar-2020 14:20:20 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function getSql() in /home/cy9j1jf15dzs/public_html/backend/api/saleList/delete1.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/cy9j1jf15dzs/public_html/backend/api/saleList/delete1.php on line 7
+[12-Mar-2020 14:23:07 UTC] PHP Warning:  include_once(../api/lib/lib.php): failed to open stream: No such file or directory in /home/cy9j1jf15dzs/public_html/backend/api/saleList/delete1.php on line 2
+[12-Mar-2020 14:23:07 UTC] PHP Warning:  include_once(): Failed opening '../api/lib/lib.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/cy9j1jf15dzs/public_html/backend/api/saleList/delete1.php on line 2
+[12-Mar-2020 14:23:07 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function getSql() in /home/cy9j1jf15dzs/public_html/backend/api/saleList/delete1.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/cy9j1jf15dzs/public_html/backend/api/saleList/delete1.php on line 7
+[12-Mar-2020 14:24:08 UTC] PHP Warning:  include_once(../api/lib/lib.php): failed to open stream: No such file or directory in /home/cy9j1jf15dzs/public_html/backend/api/saleList/delete1.php on line 2
+[12-Mar-2020 14:24:08 UTC] PHP Warning:  include_once(): Failed opening '../api/lib/lib.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/cy9j1jf15dzs/public_html/backend/api/saleList/delete1.php on line 2
+[12-Mar-2020 14:24:08 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function doSql() in /home/cy9j1jf15dzs/public_html/backend/api/saleList/delete1.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/cy9j1jf15dzs/public_html/backend/api/saleList/delete1.php on line 7
+[12-Mar-2020 14:24:44 UTC] PHP Warning:  include_once(../api/lib/lib.php): failed to open stream: No such file or directory in /home/cy9j1jf15dzs/public_html/backend/api/saleList/delete1.php on line 2
+[12-Mar-2020 14:24:44 UTC] PHP Warning:  include_once(): Failed opening '../api/lib/lib.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/cy9j1jf15dzs/public_html/backend/api/saleList/delete1.php on line 2
+[12-Mar-2020 14:28:59 UTC] PHP Warning:  include_once(../api/lib/lib.php): failed to open stream: No such file or directory in /home/cy9j1jf15dzs/public_html/backend/api/saleList/delete1.php on line 2
+[12-Mar-2020 14:28:59 UTC] PHP Warning:  include_once(): Failed opening '../api/lib/lib.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/cy9j1jf15dzs/public_html/backend/api/saleList/delete1.php on line 2
+[12-Mar-2020 14:28:59 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function doSql() in /home/cy9j1jf15dzs/public_html/backend/api/saleList/delete1.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/cy9j1jf15dzs/public_html/backend/api/saleList/delete1.php on line 7
+[12-Mar-2020 14:30:29 UTC] PHP Warning:  include_once(../api/lib/lib.php): failed to open stream: No such file or directory in /home/cy9j1jf15dzs/public_html/backend/api/saleList/delete1.php on line 2
+[12-Mar-2020 14:30:29 UTC] PHP Warning:  include_once(): Failed opening '../api/lib/lib.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/cy9j1jf15dzs/public_html/backend/api/saleList/delete1.php on line 2
+[12-Mar-2020 14:30:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function doSql() in /home/cy9j1jf15dzs/public_html/backend/api/saleList/delete1.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/cy9j1jf15dzs/public_html/backend/api/saleList/delete1.php on line 7
+[12-Mar-2020 14:31:20 UTC] PHP Warning:  include_once(../api/lib/lib.php): failed to open stream: No such file or directory in /home/cy9j1jf15dzs/public_html/backend/api/saleList/delete1.php on line 2
+[12-Mar-2020 14:31:20 UTC] PHP Warning:  include_once(): Failed opening '../api/lib/lib.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/cy9j1jf15dzs/public_html/backend/api/saleList/delete1.php on line 2
+[12-Mar-2020 14:31:20 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function doSql() in /home/cy9j1jf15dzs/public_html/backend/api/saleList/delete1.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/cy9j1jf15dzs/public_html/backend/api/saleList/delete1.php on line 9
+[12-Mar-2020 14:32:11 UTC] PHP Warning:  include_once(../api/lib/lib.php): failed to open stream: No such file or directory in /home/cy9j1jf15dzs/public_html/backend/api/saleList/delete1.php on line 2
+[12-Mar-2020 14:32:11 UTC] PHP Warning:  include_once(): Failed opening '../api/lib/lib.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/cy9j1jf15dzs/public_html/backend/api/saleList/delete1.php on line 2
+[12-Mar-2020 14:32:11 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function getSql() in /home/cy9j1jf15dzs/public_html/backend/api/saleList/delete1.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/cy9j1jf15dzs/public_html/backend/api/saleList/delete1.php on line 9
+[12-Mar-2020 14:33:32 UTC] PHP Warning:  Creating default object from empty value in /home/cy9j1jf15dzs/public_html/backend/api/saleList/delete1.php on line 29
+[12-Mar-2020 14:34:13 UTC] PHP Warning:  Creating default object from empty value in /home/cy9j1jf15dzs/public_html/backend/api/saleList/delete1.php on line 29
+[12-Mar-2020 14:34:58 UTC] PHP Warning:  Creating default object from empty value in /home/cy9j1jf15dzs/public_html/backend/api/saleList/delete1.php on line 28
+[12-Mar-2020 14:36:54 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/cy9j1jf15dzs/public_html/backend/api/saleList/delete1.php on line 28
+[12-Mar-2020 14:37:58 UTC] PHP Warning:  Creating default object from empty value in /home/cy9j1jf15dzs/public_html/backend/api/saleList/delete1.php on line 29
+[12-Mar-2020 14:39:03 UTC] PHP Warning:  Creating default object from empty value in /home/cy9j1jf15dzs/public_html/backend/api/saleList/delete1.php on line 30
+[12-Mar-2020 14:40:33 UTC] PHP Warning:  Creating default object from empty value in /home/cy9j1jf15dzs/public_html/backend/api/saleList/delete1.php on line 30
+[13-Mar-2020 07:44:32 UTC] PHP Warning:  include(../lib/lib.php): failed to open stream: No such file or directory in /home/cy9j1jf15dzs/public_html/backend/api/saleList/getdata1.php on line 2
+[13-Mar-2020 07:44:32 UTC] PHP Warning:  include(): Failed opening '../lib/lib.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/cy9j1jf15dzs/public_html/backend/api/saleList/getdata1.php on line 2
+[13-Mar-2020 07:44:32 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function getSql() in /home/cy9j1jf15dzs/public_html/backend/api/saleList/getdata1.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/cy9j1jf15dzs/public_html/backend/api/saleList/getdata1.php on line 3
+[13-Mar-2020 07:44:36 UTC] PHP Warning:  include(../lib/lib.php): failed to open stream: No such file or directory in /home/cy9j1jf15dzs/public_html/backend/api/saleList/getdata1.php on line 2
+[13-Mar-2020 07:44:36 UTC] PHP Warning:  include(): Failed opening '../lib/lib.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/cy9j1jf15dzs/public_html/backend/api/saleList/getdata1.php on line 2
+[13-Mar-2020 07:44:36 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function getSql() in /home/cy9j1jf15dzs/public_html/backend/api/saleList/getdata1.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/cy9j1jf15dzs/public_html/backend/api/saleList/getdata1.php on line 3
+[13-Mar-2020 07:44:51 UTC] PHP Warning:  include(../lib/lib.php): failed to open stream: No such file or directory in /home/cy9j1jf15dzs/public_html/backend/api/saleList/getdata1.php on line 2
+[13-Mar-2020 07:44:51 UTC] PHP Warning:  include(): Failed opening '../lib/lib.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/cy9j1jf15dzs/public_html/backend/api/saleList/getdata1.php on line 2
+[13-Mar-2020 07:44:51 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function getSql() in /home/cy9j1jf15dzs/public_html/backend/api/saleList/getdata1.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/cy9j1jf15dzs/public_html/backend/api/saleList/getdata1.php on line 3
+[13-Mar-2020 07:46:00 UTC] PHP Warning:  include(../lib/lib.php): failed to open stream: No such file or directory in /home/cy9j1jf15dzs/public_html/backend/api/saleList/getdata1.php on line 2
+[13-Mar-2020 07:46:00 UTC] PHP Warning:  include(): Failed opening '../lib/lib.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/cy9j1jf15dzs/public_html/backend/api/saleList/getdata1.php on line 2
+[13-Mar-2020 07:46:00 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function getSql() in /home/cy9j1jf15dzs/public_html/backend/api/saleList/getdata1.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/cy9j1jf15dzs/public_html/backend/api/saleList/getdata1.php on line 3
+[13-Mar-2020 07:46:29 UTC] PHP Warning:  include(../lib/lib.php): failed to open stream: No such file or directory in /home/cy9j1jf15dzs/public_html/backend/api/saleList/getdata1.php on line 2
+[13-Mar-2020 07:46:29 UTC] PHP Warning:  include(): Failed opening '../lib/lib.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/cy9j1jf15dzs/public_html/backend/api/saleList/getdata1.php on line 2
+[13-Mar-2020 07:46:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function getSql() in /home/cy9j1jf15dzs/public_html/backend/api/saleList/getdata1.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/cy9j1jf15dzs/public_html/backend/api/saleList/getdata1.php on line 3
+[13-Mar-2020 07:46:37 UTC] PHP Warning:  include(../lib/lib.php): failed to open stream: No such file or directory in /home/cy9j1jf15dzs/public_html/backend/api/saleList/getdata1.php on line 2
+[13-Mar-2020 07:46:37 UTC] PHP Warning:  include(): Failed opening '../lib/lib.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/cy9j1jf15dzs/public_html/backend/api/saleList/getdata1.php on line 2
+[13-Mar-2020 07:46:37 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function getSql() in /home/cy9j1jf15dzs/public_html/backend/api/saleList/getdata1.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/cy9j1jf15dzs/public_html/backend/api/saleList/getdata1.php on line 3
+[13-Mar-2020 07:47:30 UTC] PHP Warning:  include(../lib/lib.php): failed to open stream: No such file or directory in /home/cy9j1jf15dzs/public_html/backend/api/saleList/getdata1.php on line 2
+[13-Mar-2020 07:47:30 UTC] PHP Warning:  include(): Failed opening '../lib/lib.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/cy9j1jf15dzs/public_html/backend/api/saleList/getdata1.php on line 2
+[13-Mar-2020 07:47:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function getSql() in /home/cy9j1jf15dzs/public_html/backend/api/saleList/getdata1.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/cy9j1jf15dzs/public_html/backend/api/saleList/getdata1.php on line 3
+[13-Mar-2020 07:47:34 UTC] PHP Warning:  include(../lib/lib.php): failed to open stream: No such file or directory in /home/cy9j1jf15dzs/public_html/backend/api/saleList/getdata1.php on line 2
+[13-Mar-2020 07:47:34 UTC] PHP Warning:  include(): Failed opening '../lib/lib.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/cy9j1jf15dzs/public_html/backend/api/saleList/getdata1.php on line 2
+[13-Mar-2020 07:47:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function getSql() in /home/cy9j1jf15dzs/public_html/backend/api/saleList/getdata1.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/cy9j1jf15dzs/public_html/backend/api/saleList/getdata1.php on line 3
+[13-Mar-2020 07:49:33 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetchAll() on boolean in /home/cy9j1jf15dzs/public_html/backend/lib/lib.php:71
+Stack trace:
+#0 /home/cy9j1jf15dzs/public_html/backend/api/saleList/getdata1.php(8): getSql('select * from i...')
+#1 {main}
+  thrown in /home/cy9j1jf15dzs/public_html/backend/lib/lib.php on line 71
+[13-Mar-2020 07:51:24 UTC] PHP Notice:  Undefined variable: lxp_json in /home/cy9j1jf15dzs/public_html/backend/api/saleList/getdata1.php on line 26
+[13-Mar-2020 07:56:52 UTC] PHP Warning:  include(../lib/lib.php): failed to open stream: No such file or directory in /home/cy9j1jf15dzs/public_html/backend/api/saleList/insert1.php on line 2
+[13-Mar-2020 07:56:52 UTC] PHP Warning:  include(): Failed opening '../lib/lib.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/cy9j1jf15dzs/public_html/backend/api/saleList/insert1.php on line 2
+[13-Mar-2020 08:01:23 UTC] PHP Warning:  include(../lib/lib.php): failed to open stream: No such file or directory in /home/cy9j1jf15dzs/public_html/backend/api/saleList/insert1.php on line 2
+[13-Mar-2020 08:01:23 UTC] PHP Warning:  include(): Failed opening '../lib/lib.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/cy9j1jf15dzs/public_html/backend/api/saleList/insert1.php on line 2
+[13-Mar-2020 08:01:26 UTC] PHP Warning:  include(../lib/lib.php): failed to open stream: No such file or directory in /home/cy9j1jf15dzs/public_html/backend/api/saleList/insert1.php on line 2
+[13-Mar-2020 08:01:26 UTC] PHP Warning:  include(): Failed opening '../lib/lib.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/cy9j1jf15dzs/public_html/backend/api/saleList/insert1.php on line 2
+[13-Mar-2020 08:01:47 UTC] PHP Warning:  include(../lib/lib.php): failed to open stream: No such file or directory in /home/cy9j1jf15dzs/public_html/backend/api/saleList/insert1.php on line 2
+[13-Mar-2020 08:01:47 UTC] PHP Warning:  include(): Failed opening '../lib/lib.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/cy9j1jf15dzs/public_html/backend/api/saleList/insert1.php on line 2
+[13-Mar-2020 08:01:55 UTC] PHP Warning:  include(../lib/lib.php): failed to open stream: No such file or directory in /home/cy9j1jf15dzs/public_html/backend/api/saleList/insert1.php on line 2
+[13-Mar-2020 08:01:55 UTC] PHP Warning:  include(): Failed opening '../lib/lib.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/cy9j1jf15dzs/public_html/backend/api/saleList/insert1.php on line 2
+[13-Mar-2020 08:05:16 UTC] PHP Warning:  include(../lib/lib.php): failed to open stream: No such file or directory in /home/cy9j1jf15dzs/public_html/backend/api/saleList/insert1.php on line 2
+[13-Mar-2020 08:05:16 UTC] PHP Warning:  include(): Failed opening '../lib/lib.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/cy9j1jf15dzs/public_html/backend/api/saleList/insert1.php on line 2
+[13-Mar-2020 08:05:21 UTC] PHP Warning:  include(../lib/lib.php): failed to open stream: No such file or directory in /home/cy9j1jf15dzs/public_html/backend/api/saleList/insert1.php on line 2
+[13-Mar-2020 08:05:21 UTC] PHP Warning:  include(): Failed opening '../lib/lib.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/cy9j1jf15dzs/public_html/backend/api/saleList/insert1.php on line 2
+[13-Mar-2020 08:05:59 UTC] PHP Warning:  include(../lib/lib.php): failed to open stream: No such file or directory in /home/cy9j1jf15dzs/public_html/backend/api/saleList/insert1.php on line 2
+[13-Mar-2020 08:05:59 UTC] PHP Warning:  include(): Failed opening '../lib/lib.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/cy9j1jf15dzs/public_html/backend/api/saleList/insert1.php on line 2
+[13-Mar-2020 08:06:08 UTC] PHP Warning:  include(../lib/lib.php): failed to open stream: No such file or directory in /home/cy9j1jf15dzs/public_html/backend/api/saleList/insert1.php on line 2
+[13-Mar-2020 08:06:08 UTC] PHP Warning:  include(): Failed opening '../lib/lib.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/cy9j1jf15dzs/public_html/backend/api/saleList/insert1.php on line 2
+[13-Mar-2020 08:07:43 UTC] PHP Warning:  include(../lib/lib.php): failed to open stream: No such file or directory in /home/cy9j1jf15dzs/public_html/backend/api/saleList/insert1.php on line 2
+[13-Mar-2020 08:07:43 UTC] PHP Warning:  include(): Failed opening '../lib/lib.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/cy9j1jf15dzs/public_html/backend/api/saleList/insert1.php on line 2
+[13-Mar-2020 08:08:46 UTC] PHP Warning:  include(../lib/lib.php): failed to open stream: No such file or directory in /home/cy9j1jf15dzs/public_html/backend/api/saleList/insert1.php on line 2
+[13-Mar-2020 08:08:46 UTC] PHP Warning:  include(): Failed opening '../lib/lib.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/cy9j1jf15dzs/public_html/backend/api/saleList/insert1.php on line 2
+[13-Mar-2020 08:08:50 UTC] PHP Warning:  include(../lib/lib.php): failed to open stream: No such file or directory in /home/cy9j1jf15dzs/public_html/backend/api/saleList/insert1.php on line 2
+[13-Mar-2020 08:08:51 UTC] PHP Warning:  include(): Failed opening '../lib/lib.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/cy9j1jf15dzs/public_html/backend/api/saleList/insert1.php on line 2
+[13-Mar-2020 08:09:44 UTC] PHP Warning:  include(../lib/lib.php): failed to open stream: No such file or directory in /home/cy9j1jf15dzs/public_html/backend/api/saleList/insert1.php on line 2
+[13-Mar-2020 08:09:44 UTC] PHP Warning:  include(): Failed opening '../lib/lib.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/cy9j1jf15dzs/public_html/backend/api/saleList/insert1.php on line 2
+[13-Mar-2020 08:09:48 UTC] PHP Warning:  include(../lib/lib.php): failed to open stream: No such file or directory in /home/cy9j1jf15dzs/public_html/backend/api/saleList/insert1.php on line 2
+[13-Mar-2020 08:09:48 UTC] PHP Warning:  include(): Failed opening '../lib/lib.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/cy9j1jf15dzs/public_html/backend/api/saleList/insert1.php on line 2
+[13-Mar-2020 08:10:46 UTC] PHP Warning:  include(../lib/lib.php): failed to open stream: No such file or directory in /home/cy9j1jf15dzs/public_html/backend/api/saleList/insert1.php on line 2
+[13-Mar-2020 08:10:46 UTC] PHP Warning:  include(): Failed opening '../lib/lib.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/cy9j1jf15dzs/public_html/backend/api/saleList/insert1.php on line 2
+[13-Mar-2020 08:17:33 UTC] PHP Warning:  include(../lib/lib.php): failed to open stream: No such file or directory in /home/cy9j1jf15dzs/public_html/backend/api/saleList/insert1.php on line 2
+[13-Mar-2020 08:17:33 UTC] PHP Warning:  include(): Failed opening '../lib/lib.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/cy9j1jf15dzs/public_html/backend/api/saleList/insert1.php on line 2
+[13-Mar-2020 08:17:42 UTC] PHP Warning:  include(../lib/lib.php): failed to open stream: No such file or directory in /home/cy9j1jf15dzs/public_html/backend/api/saleList/insert1.php on line 2
+[13-Mar-2020 08:17:42 UTC] PHP Warning:  include(): Failed opening '../lib/lib.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/cy9j1jf15dzs/public_html/backend/api/saleList/insert1.php on line 2
+[13-Mar-2020 08:17:43 UTC] PHP Warning:  include(../lib/lib.php): failed to open stream: No such file or directory in /home/cy9j1jf15dzs/public_html/backend/api/saleList/insert1.php on line 2
+[13-Mar-2020 08:17:43 UTC] PHP Warning:  include(): Failed opening '../lib/lib.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/cy9j1jf15dzs/public_html/backend/api/saleList/insert1.php on line 2
+[13-Mar-2020 08:36:41 UTC] PHP Warning:  include(../lib/lib.php): failed to open stream: No such file or directory in /home/cy9j1jf15dzs/public_html/backend/api/saleList/insert1.php on line 2
+[13-Mar-2020 08:36:41 UTC] PHP Warning:  include(): Failed opening '../lib/lib.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/cy9j1jf15dzs/public_html/backend/api/saleList/insert1.php on line 2
+[13-Mar-2020 08:41:00 UTC] PHP Warning:  include(../lib/lib.php): failed to open stream: No such file or directory in /home/cy9j1jf15dzs/public_html/backend/api/saleList/insert1.php on line 2
+[13-Mar-2020 08:41:00 UTC] PHP Warning:  include(): Failed opening '../lib/lib.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/cy9j1jf15dzs/public_html/backend/api/saleList/insert1.php on line 2
+[13-Mar-2020 08:41:00 UTC] PHP Warning:  Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP) in /home/cy9j1jf15dzs/public_html/backend/api/saleList/insert1.php on line 11
+[13-Mar-2020 08:41:00 UTC] PHP Warning:  Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP) in /home/cy9j1jf15dzs/public_html/backend/api/saleList/insert1.php on line 11
+[13-Mar-2020 08:41:33 UTC] PHP Warning:  include(../lib/lib.php): failed to open stream: No such file or directory in /home/cy9j1jf15dzs/public_html/backend/api/saleList/insert1.php on line 2
+[13-Mar-2020 08:41:33 UTC] PHP Warning:  include(): Failed opening '../lib/lib.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/cy9j1jf15dzs/public_html/backend/api/saleList/insert1.php on line 2
+[13-Mar-2020 08:41:53 UTC] PHP Warning:  include(../lib/lib.php): failed to open stream: No such file or directory in /home/cy9j1jf15dzs/public_html/backend/api/saleList/insert1.php on line 2
+[13-Mar-2020 08:41:53 UTC] PHP Warning:  include(): Failed opening '../lib/lib.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/cy9j1jf15dzs/public_html/backend/api/saleList/insert1.php on line 2
+[13-Mar-2020 08:42:26 UTC] PHP Warning:  include(../lib/lib.php): failed to open stream: No such file or directory in /home/cy9j1jf15dzs/public_html/backend/api/saleList/insert1.php on line 2
+[13-Mar-2020 08:42:26 UTC] PHP Warning:  include(): Failed opening '../lib/lib.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/cy9j1jf15dzs/public_html/backend/api/saleList/insert1.php on line 2
+[13-Mar-2020 08:43:08 UTC] PHP Warning:  include(../lib/lib.php): failed to open stream: No such file or directory in /home/cy9j1jf15dzs/public_html/backend/api/saleList/insert1.php on line 2
+[13-Mar-2020 08:43:08 UTC] PHP Warning:  include(): Failed opening '../lib/lib.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/cy9j1jf15dzs/public_html/backend/api/saleList/insert1.php on line 2
+[13-Mar-2020 08:44:36 UTC] PHP Warning:  include(../lib/lib.php): failed to open stream: No such file or directory in /home/cy9j1jf15dzs/public_html/backend/api/saleList/insert1.php on line 2
+[13-Mar-2020 08:44:36 UTC] PHP Warning:  include(): Failed opening '../lib/lib.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/cy9j1jf15dzs/public_html/backend/api/saleList/insert1.php on line 2
+[13-Mar-2020 08:48:43 UTC] PHP Warning:  include(../lib/lib.php): failed to open stream: No such file or directory in /home/cy9j1jf15dzs/public_html/backend/api/saleList/insert1.php on line 2
+[13-Mar-2020 08:48:43 UTC] PHP Warning:  include(): Failed opening '../lib/lib.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/cy9j1jf15dzs/public_html/backend/api/saleList/insert1.php on line 2
+[13-Mar-2020 08:55:50 UTC] PHP Warning:  include(../lib/lib.php): failed to open stream: No such file or directory in /home/cy9j1jf15dzs/public_html/backend/api/saleList/insert1.php on line 2
+[13-Mar-2020 08:55:50 UTC] PHP Warning:  include(): Failed opening '../lib/lib.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/cy9j1jf15dzs/public_html/backend/api/saleList/insert1.php on line 2
+[13-Mar-2020 08:55:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function microtime_float() in /home/cy9j1jf15dzs/public_html/backend/api/saleList/insert1.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/cy9j1jf15dzs/public_html/backend/api/saleList/insert1.php on line 23
+[13-Mar-2020 08:56:28 UTC] PHP Warning:  include(../lib/lib.php): failed to open stream: No such file or directory in /home/cy9j1jf15dzs/public_html/backend/api/saleList/insert1.php on line 2
+[13-Mar-2020 08:56:28 UTC] PHP Warning:  include(): Failed opening '../lib/lib.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/cy9j1jf15dzs/public_html/backend/api/saleList/insert1.php on line 2
+[13-Mar-2020 08:56:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function microtime_float() in /home/cy9j1jf15dzs/public_html/backend/api/saleList/insert1.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/cy9j1jf15dzs/public_html/backend/api/saleList/insert1.php on line 26
+[13-Mar-2020 08:56:53 UTC] PHP Notice:  Undefined variable: data in /home/cy9j1jf15dzs/public_html/backend/api/saleList/insert1.php on line 30
+[13-Mar-2020 08:56:53 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/cy9j1jf15dzs/public_html/backend/api/saleList/insert1.php on line 30
+[13-Mar-2020 10:38:06 UTC] PHP Warning:  include(../lib/lib.php): failed to open stream: No such file or directory in /home/cy9j1jf15dzs/public_html/backend/api/saleList/upload1.php on line 2
+[13-Mar-2020 10:38:06 UTC] PHP Warning:  include(): Failed opening '../lib/lib.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/cy9j1jf15dzs/public_html/backend/api/saleList/upload1.php on line 2
+[13-Mar-2020 10:38:27 UTC] PHP Warning:  include(../lib/lib.php): failed to open stream: No such file or directory in /home/cy9j1jf15dzs/public_html/backend/api/saleList/upload1.php on line 2
+[13-Mar-2020 10:38:27 UTC] PHP Warning:  include(): Failed opening '../lib/lib.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/cy9j1jf15dzs/public_html/backend/api/saleList/upload1.php on line 2
+[13-Mar-2020 10:43:47 UTC] PHP Warning:  include(../lib/lib.php): failed to open stream: No such file or directory in /home/cy9j1jf15dzs/public_html/backend/api/saleList/upload1.php on line 2
+[13-Mar-2020 10:43:47 UTC] PHP Warning:  include(): Failed opening '../lib/lib.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/cy9j1jf15dzs/public_html/backend/api/saleList/upload1.php on line 2
+[13-Mar-2020 10:50:47 UTC] PHP Notice:  Undefined index: data1 in /home/cy9j1jf15dzs/public_html/backend/api/saleList/insert1.php on line 17
+[13-Mar-2020 10:50:47 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/cy9j1jf15dzs/public_html/backend/api/saleList/insert1.php on line 17
+[13-Mar-2020 10:50:47 UTC] PHP Notice:  Undefined index: userId1 in /home/cy9j1jf15dzs/public_html/backend/api/saleList/insert1.php on line 36
+[13-Mar-2020 10:50:47 UTC] PHP Notice:  Undefined index: data2 in /home/cy9j1jf15dzs/public_html/backend/api/saleList/insert1.php on line 44
+[13-Mar-2020 10:50:47 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/cy9j1jf15dzs/public_html/backend/api/saleList/insert1.php on line 44
+[13-Mar-2020 10:55:56 UTC] PHP Notice:  Undefined index: data1 in /home/cy9j1jf15dzs/public_html/backend/api/saleList/insert1.php on line 17
+[13-Mar-2020 10:55:56 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/cy9j1jf15dzs/public_html/backend/api/saleList/insert1.php on line 17
+[13-Mar-2020 10:55:56 UTC] PHP Notice:  Undefined index: userId1 in /home/cy9j1jf15dzs/public_html/backend/api/saleList/insert1.php on line 36
+[13-Mar-2020 10:55:56 UTC] PHP Notice:  Undefined index: data2 in /home/cy9j1jf15dzs/public_html/backend/api/saleList/insert1.php on line 44
+[13-Mar-2020 10:55:56 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/cy9j1jf15dzs/public_html/backend/api/saleList/insert1.php on line 44
+[13-Mar-2020 10:57:55 UTC] PHP Notice:  Undefined index: data1 in /home/cy9j1jf15dzs/public_html/backend/api/saleList/insert1.php on line 17
+[13-Mar-2020 10:57:55 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/cy9j1jf15dzs/public_html/backend/api/saleList/insert1.php on line 17
+[13-Mar-2020 10:57:55 UTC] PHP Notice:  Undefined index: userId1 in /home/cy9j1jf15dzs/public_html/backend/api/saleList/insert1.php on line 36
+[13-Mar-2020 10:57:55 UTC] PHP Notice:  Undefined index: data2 in /home/cy9j1jf15dzs/public_html/backend/api/saleList/insert1.php on line 44
+[13-Mar-2020 10:57:55 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/cy9j1jf15dzs/public_html/backend/api/saleList/insert1.php on line 44
+[13-Mar-2020 10:59:08 UTC] PHP Warning:  include(../lib/lib.php): failed to open stream: No such file or directory in /home/cy9j1jf15dzs/public_html/backend/api/saleList/upload1.php on line 2
+[13-Mar-2020 10:59:08 UTC] PHP Warning:  include(): Failed opening '../lib/lib.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/cy9j1jf15dzs/public_html/backend/api/saleList/upload1.php on line 2
+[13-Mar-2020 11:00:28 UTC] PHP Warning:  include(../lib/lib.php): failed to open stream: No such file or directory in /home/cy9j1jf15dzs/public_html/backend/api/saleList/upload1.php on line 2
+[13-Mar-2020 11:00:28 UTC] PHP Warning:  include(): Failed opening '../lib/lib.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/cy9j1jf15dzs/public_html/backend/api/saleList/upload1.php on line 2
+[13-Mar-2020 11:03:06 UTC] PHP Warning:  include(../lib/lib.php): failed to open stream: No such file or directory in /home/cy9j1jf15dzs/public_html/backend/api/saleList/upload1.php on line 2
+[13-Mar-2020 11:03:06 UTC] PHP Warning:  include(): Failed opening '../lib/lib.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/cy9j1jf15dzs/public_html/backend/api/saleList/upload1.php on line 2
+[13-Mar-2020 14:17:12 UTC] PHP Warning:  include(../lib/lib.php): failed to open stream: No such file or directory in /home/cy9j1jf15dzs/public_html/backend/api/saleList/upload1.php on line 2
+[13-Mar-2020 14:17:12 UTC] PHP Warning:  include(): Failed opening '../lib/lib.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/cy9j1jf15dzs/public_html/backend/api/saleList/upload1.php on line 2
+[13-Mar-2020 14:31:58 UTC] PHP Warning:  include(../lib/lib.php): failed to open stream: No such file or directory in /home/cy9j1jf15dzs/public_html/backend/api/saleList/upload1.php on line 2
+[13-Mar-2020 14:31:58 UTC] PHP Warning:  include(): Failed opening '../lib/lib.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/cy9j1jf15dzs/public_html/backend/api/saleList/upload1.php on line 2
+[13-Mar-2020 14:31:58 UTC] PHP Warning:  pathinfo() expects parameter 1 to be string, array given in /home/cy9j1jf15dzs/public_html/backend/api/saleList/upload1.php on line 27
+[13-Mar-2020 14:32:38 UTC] PHP Warning:  pathinfo() expects parameter 1 to be string, array given in /home/cy9j1jf15dzs/public_html/backend/api/saleList/upload1.php on line 27
+[13-Mar-2020 14:44:25 UTC] PHP Fatal error:  Cannot use [] for reading in /home/cy9j1jf15dzs/public_html/backend/api/saleList/upload1.php on line 143
+[13-Mar-2020 14:47:02 UTC] PHP Fatal error:  Cannot use [] for reading in /home/cy9j1jf15dzs/public_html/backend/api/saleList/upload1.php on line 143
+[13-Mar-2020 14:47:58 UTC] PHP Fatal error:  Cannot use [] for reading in /home/cy9j1jf15dzs/public_html/backend/api/saleList/upload1.php on line 144
+[13-Mar-2020 14:48:50 UTC] PHP Fatal error:  Cannot use [] for reading in /home/cy9j1jf15dzs/public_html/backend/api/saleList/upload1.php on line 135
+[13-Mar-2020 14:49:17 UTC] PHP Fatal error:  Cannot use [] for reading in /home/cy9j1jf15dzs/public_html/backend/api/saleList/upload1.php on line 135
+[14-Mar-2020 15:37:14 UTC] PHP Notice:  Undefined variable: newName in /home/cy9j1jf15dzs/public_html/backend/api/saleList/upload1.php on line 30
+[14-Mar-2020 16:16:22 UTC] PHP Notice:  Undefined variable: files in /home/cy9j1jf15dzs/public_html/backend/lib/lib.php on line 139
+[14-Mar-2020 16:16:22 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/cy9j1jf15dzs/public_html/backend/api/saleList/upload1.php on line 14
+[14-Mar-2020 16:16:22 UTC] PHP Notice:  Undefined variable: uploadFiles in /home/cy9j1jf15dzs/public_html/backend/api/saleList/upload1.php on line 29
+[14-Mar-2020 16:16:22 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/cy9j1jf15dzs/public_html/backend/api/saleList/upload1.php on line 29
+[14-Mar-2020 16:23:01 UTC] PHP Notice:  Undefined variable: files in /home/cy9j1jf15dzs/public_html/backend/lib/lib.php on line 139
+[14-Mar-2020 16:23:01 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/cy9j1jf15dzs/public_html/backend/api/saleList/upload1.php on line 14
+[14-Mar-2020 16:23:01 UTC] PHP Notice:  Undefined variable: uploadFiles in /home/cy9j1jf15dzs/public_html/backend/api/saleList/upload1.php on line 29
+[14-Mar-2020 16:23:01 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/cy9j1jf15dzs/public_html/backend/api/saleList/upload1.php on line 29
+[14-Mar-2020 16:44:17 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetchAll() on boolean in /home/cy9j1jf15dzs/public_html/backend/lib/lib.php:73
+Stack trace:
+#0 /home/cy9j1jf15dzs/public_html/backend/api/saleList/getdata1.php(10): getSql('select *,\n(sele...')
+#1 {main}
+  thrown in /home/cy9j1jf15dzs/public_html/backend/lib/lib.php on line 73
+[17-Mar-2020 07:30:36 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function insert(), 3 passed in /home/cy9j1jf15dzs/public_html/backend/api/saleList/insert1.php on line 39 and exactly 4 expected in /home/cy9j1jf15dzs/public_html/backend/lib/lib.php:10
+Stack trace:
+#0 /home/cy9j1jf15dzs/public_html/backend/api/saleList/insert1.php(39): insert('itemList', Array, Array)
+#1 {main}
+  thrown in /home/cy9j1jf15dzs/public_html/backend/lib/lib.php on line 10
+[17-Mar-2020 07:31:17 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function insert(), 3 passed in /home/cy9j1jf15dzs/public_html/backend/api/saleList/insert1.php on line 70 and exactly 4 expected in /home/cy9j1jf15dzs/public_html/backend/lib/lib.php:10
+Stack trace:
+#0 /home/cy9j1jf15dzs/public_html/backend/api/saleList/insert1.php(70): insert('itemList01', Array, Array)
+#1 {main}
+  thrown in /home/cy9j1jf15dzs/public_html/backend/lib/lib.php on line 10
+[17-Mar-2020 07:32:00 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function insert(), 3 passed in /home/cy9j1jf15dzs/public_html/backend/api/saleList/insert1.php on line 72 and exactly 4 expected in /home/cy9j1jf15dzs/public_html/backend/lib/lib.php:10
+Stack trace:
+#0 /home/cy9j1jf15dzs/public_html/backend/api/saleList/insert1.php(72): insert('itemList01', Array, Array)
+#1 {main}
+  thrown in /home/cy9j1jf15dzs/public_html/backend/lib/lib.php on line 10
+[17-Mar-2020 07:34:18 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function insert(), 3 passed in /home/cy9j1jf15dzs/public_html/backend/api/saleList/upload1.php on line 32 and exactly 4 expected in /home/cy9j1jf15dzs/public_html/backend/lib/lib.php:10
+Stack trace:
+#0 /home/cy9j1jf15dzs/public_html/backend/api/saleList/upload1.php(32): insert('itemList02', Array, Array)
+#1 {main}
+  thrown in /home/cy9j1jf15dzs/public_html/backend/lib/lib.php on line 10
+[07-Apr-2020 08:31:44 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method PDO::autocommit() in /home/cy9j1jf15dzs/public_html/backend/api/saleList/insert1.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/cy9j1jf15dzs/public_html/backend/api/saleList/insert1.php on line 4
+[07-Apr-2020 08:32:26 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method PDO::autocommit() in /home/cy9j1jf15dzs/public_html/backend/api/saleList/insert1.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/cy9j1jf15dzs/public_html/backend/api/saleList/insert1.php on line 4
+[07-Apr-2020 08:33:11 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method PDO::autocommit() in /home/cy9j1jf15dzs/public_html/backend/api/saleList/insert1.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/cy9j1jf15dzs/public_html/backend/api/saleList/insert1.php on line 4
+[07-Apr-2020 08:39:07 UTC] PHP Notice:  Undefined property: PDO::$dbh in /home/cy9j1jf15dzs/public_html/backend/api/saleList/insert1.php on line 4
+[07-Apr-2020 08:39:07 UTC] PHP Fatal error:  Uncaught Error: Call to a member function beginTransaction() on null in /home/cy9j1jf15dzs/public_html/backend/api/saleList/insert1.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/cy9j1jf15dzs/public_html/backend/api/saleList/insert1.php on line 4
+[07-Apr-2020 08:49:53 UTC] PHP Fatal error:  Uncaught PDOException: There is already an active transaction in /home/cy9j1jf15dzs/public_html/backend/lib/lib.php:15
+Stack trace:
+#0 /home/cy9j1jf15dzs/public_html/backend/lib/lib.php(15): PDO->beginTransaction()
+#1 /home/cy9j1jf15dzs/public_html/backend/api/saleList/insert1.php(40): insert('itemList', Array, Array, 0)
+#2 {main}
+  thrown in /home/cy9j1jf15dzs/public_html/backend/lib/lib.php on line 15
+[07-Apr-2020 08:51:34 UTC] PHP Fatal error:  Uncaught PDOException: There is no active transaction in /home/cy9j1jf15dzs/public_html/backend/api/saleList/insert1.php:94
+Stack trace:
+#0 /home/cy9j1jf15dzs/public_html/backend/api/saleList/insert1.php(94): PDO->commit()
+#1 {main}
+  thrown in /home/cy9j1jf15dzs/public_html/backend/api/saleList/insert1.php on line 94
+[07-Apr-2020 08:57:31 UTC] PHP Fatal error:  Uncaught PDOException: There is no active transaction in /home/cy9j1jf15dzs/public_html/backend/api/saleList/insert1.php:94
+Stack trace:
+#0 /home/cy9j1jf15dzs/public_html/backend/api/saleList/insert1.php(94): PDO->commit()
+#1 {main}
+  thrown in /home/cy9j1jf15dzs/public_html/backend/api/saleList/insert1.php on line 94
+[07-Apr-2020 09:09:10 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function insert(), 4 passed in /home/cy9j1jf15dzs/public_html/backend/api/saleList/upload1.php on line 32 and exactly 5 expected in /home/cy9j1jf15dzs/public_html/backend/lib/lib.php:12
+Stack trace:
+#0 /home/cy9j1jf15dzs/public_html/backend/api/saleList/upload1.php(32): insert('itemList02', Array, Array, 0)
+#1 {main}
+  thrown in /home/cy9j1jf15dzs/public_html/backend/lib/lib.php on line 12
+[07-Apr-2020 09:25:52 UTC] PHP Fatal error:  Uncaught PDOException: There is already an active transaction in /home/cy9j1jf15dzs/public_html/backend/lib/lib.php:15
+Stack trace:
+#0 /home/cy9j1jf15dzs/public_html/backend/lib/lib.php(15): PDO->beginTransaction()
+#1 /home/cy9j1jf15dzs/public_html/backend/api/saleList/insert1.php(74): insert('itemList01', Array, Array, 0)
+#2 {main}
+  thrown in /home/cy9j1jf15dzs/public_html/backend/lib/lib.php on line 15
+[07-Apr-2020 10:08:25 UTC] PHP Notice:  Undefined index: aId in /home/cy9j1jf15dzs/public_html/backend/api/saleList/insert1.php on line 12
+[07-Apr-2020 10:08:25 UTC] PHP Notice:  Undefined index: studentId1 in /home/cy9j1jf15dzs/public_html/backend/api/saleList/insert1.php on line 12
+[07-Apr-2020 10:08:25 UTC] PHP Fatal error:  Uncaught Error: Call to a member function execute() on boolean in /home/cy9j1jf15dzs/public_html/backend/api/saleList/insert1.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/cy9j1jf15dzs/public_html/backend/api/saleList/insert1.php on line 14
+[07-Apr-2020 10:09:05 UTC] PHP Fatal error:  Uncaught Error: Call to a member function execute() on boolean in /home/cy9j1jf15dzs/public_html/backend/api/saleList/insert1.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/cy9j1jf15dzs/public_html/backend/api/saleList/insert1.php on line 14
+[07-Apr-2020 10:31:00 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/cy9j1jf15dzs/public_html/backend/lib/lib.php:103
+Stack trace:
+#0 /home/cy9j1jf15dzs/public_html/backend/api/saleList/getdata1.php(11): getSql('select *,\n(sele...')
+#1 {main}
+  thrown in /home/cy9j1jf15dzs/public_html/backend/lib/lib.php on line 103
+[07-Apr-2020 10:31:04 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/cy9j1jf15dzs/public_html/backend/lib/lib.php:103
+Stack trace:
+#0 /home/cy9j1jf15dzs/public_html/backend/api/saleList/getdata1.php(11): getSql('select *,\n(sele...')
+#1 {main}
+  thrown in /home/cy9j1jf15dzs/public_html/backend/lib/lib.php on line 103
+[07-Apr-2020 10:31:06 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/cy9j1jf15dzs/public_html/backend/lib/lib.php:103
+Stack trace:
+#0 /home/cy9j1jf15dzs/public_html/backend/api/saleList/getdata1.php(11): getSql('select *,\n(sele...')
+#1 {main}
+  thrown in /home/cy9j1jf15dzs/public_html/backend/lib/lib.php on line 103
+[07-Apr-2020 10:31:22 UTC] PHP Notice:  Undefined variable: pdo in /home/cy9j1jf15dzs/public_html/backend/api/saleList/insert1.php on line 10
+[07-Apr-2020 10:31:22 UTC] PHP Fatal error:  Uncaught Error: Call to a member function beginTransaction() on null in /home/cy9j1jf15dzs/public_html/backend/api/saleList/insert1.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/cy9j1jf15dzs/public_html/backend/api/saleList/insert1.php on line 10
+[07-Apr-2020 10:32:01 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/cy9j1jf15dzs/public_html/backend/lib/lib.php:103
+Stack trace:
+#0 /home/cy9j1jf15dzs/public_html/backend/api/saleList/getdata1.php(11): getSql('select *,\n(sele...')
+#1 {main}
+  thrown in /home/cy9j1jf15dzs/public_html/backend/lib/lib.php on line 103
+[07-Apr-2020 10:32:04 UTC] PHP Fatal error:  Uncaught Error: Call to a member function execute() on boolean in /home/cy9j1jf15dzs/public_html/backend/api/saleList/insert1.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/cy9j1jf15dzs/public_html/backend/api/saleList/insert1.php on line 14
+[07-Apr-2020 10:37:28 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/cy9j1jf15dzs/public_html/backend/lib/lib.php:103
+Stack trace:
+#0 /home/cy9j1jf15dzs/public_html/backend/api/saleList/getdata1.php(11): getSql('select *,\n(sele...')
+#1 {main}
+  thrown in /home/cy9j1jf15dzs/public_html/backend/lib/lib.php on line 103
+[07-Apr-2020 10:37:32 UTC] PHP Fatal error:  Uncaught Error: Call to a member function execute() on boolean in /home/cy9j1jf15dzs/public_html/backend/api/saleList/insert1.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/cy9j1jf15dzs/public_html/backend/api/saleList/insert1.php on line 14
+[07-Apr-2020 10:39:25 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/cy9j1jf15dzs/public_html/backend/lib/lib.php:103
+Stack trace:
+#0 /home/cy9j1jf15dzs/public_html/backend/api/saleList/getdata1.php(11): getSql('select *,\n(sele...')
+#1 {main}
+  thrown in /home/cy9j1jf15dzs/public_html/backend/lib/lib.php on line 103
+[07-Apr-2020 10:39:29 UTC] PHP Notice:  Undefined index: name1 in /home/cy9j1jf15dzs/public_html/backend/api/saleList/insert1.php on line 16
+[07-Apr-2020 10:39:29 UTC] PHP Notice:  Undefined variable: sys in /home/cy9j1jf15dzs/public_html/backend/api/saleList/insert1.php on line 120
+[07-Apr-2020 10:40:30 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/cy9j1jf15dzs/public_html/backend/lib/lib.php:103
+Stack trace:
+#0 /home/cy9j1jf15dzs/public_html/backend/api/saleList/getdata1.php(11): getSql('select *,\n(sele...')
+#1 {main}
+  thrown in /home/cy9j1jf15dzs/public_html/backend/lib/lib.php on line 103
+[07-Apr-2020 10:40:34 UTC] PHP Notice:  Undefined variable: sys in /home/cy9j1jf15dzs/public_html/backend/api/saleList/insert1.php on line 120
+[07-Apr-2020 10:41:10 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/cy9j1jf15dzs/public_html/backend/lib/lib.php:103
+Stack trace:
+#0 /home/cy9j1jf15dzs/public_html/backend/api/saleList/getdata1.php(11): getSql('select *,\n(sele...')
+#1 {main}
+  thrown in /home/cy9j1jf15dzs/public_html/backend/lib/lib.php on line 103
+[07-Apr-2020 10:41:14 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/cy9j1jf15dzs/public_html/backend/lib/lib.php:103
+Stack trace:
+#0 /home/cy9j1jf15dzs/public_html/backend/api/saleList/getdata1.php(11): getSql('select *,\n(sele...')
+#1 {main}
+  thrown in /home/cy9j1jf15dzs/public_html/backend/lib/lib.php on line 103
+[07-Apr-2020 10:42:13 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/cy9j1jf15dzs/public_html/backend/lib/lib.php:103
+Stack trace:
+#0 /home/cy9j1jf15dzs/public_html/backend/api/saleList/getdata1.php(11): getSql('select *,\n(sele...')
+#1 {main}
+  thrown in /home/cy9j1jf15dzs/public_html/backend/lib/lib.php on line 103
+[07-Apr-2020 10:49:02 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/cy9j1jf15dzs/public_html/backend/lib/lib.php:103
+Stack trace:
+#0 /home/cy9j1jf15dzs/public_html/backend/api/saleList/getdata1.php(11): getSql('select *,\n(sele...')
+#1 {main}
+  thrown in /home/cy9j1jf15dzs/public_html/backend/lib/lib.php on line 103
+[07-Apr-2020 10:50:02 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/cy9j1jf15dzs/public_html/backend/lib/lib.php:103
+Stack trace:
+#0 /home/cy9j1jf15dzs/public_html/backend/api/saleList/getdata1.php(11): getSql('select *,\n(sele...')
+#1 {main}
+  thrown in /home/cy9j1jf15dzs/public_html/backend/lib/lib.php on line 103
+[07-Apr-2020 10:51:07 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/cy9j1jf15dzs/public_html/backend/lib/lib.php:103
+Stack trace:
+#0 /home/cy9j1jf15dzs/public_html/backend/api/saleList/getdata1.php(11): getSql('select *,\n(sele...')
+#1 {main}
+  thrown in /home/cy9j1jf15dzs/public_html/backend/lib/lib.php on line 103
+[07-Apr-2020 11:01:47 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/cy9j1jf15dzs/public_html/backend/lib/lib.php:104
+Stack trace:
+#0 /home/cy9j1jf15dzs/public_html/backend/api/saleList/getdata1.php(11): getSql('select *,\n(sele...')
+#1 {main}
+  thrown in /home/cy9j1jf15dzs/public_html/backend/lib/lib.php on line 104
+[07-Apr-2020 11:01:50 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/cy9j1jf15dzs/public_html/backend/lib/lib.php:104
+Stack trace:
+#0 /home/cy9j1jf15dzs/public_html/backend/api/saleList/getdata1.php(11): getSql('select *,\n(sele...')
+#1 {main}
+  thrown in /home/cy9j1jf15dzs/public_html/backend/lib/lib.php on line 104
+[07-Apr-2020 11:02:04 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/cy9j1jf15dzs/public_html/backend/lib/lib.php:104
+Stack trace:
+#0 /home/cy9j1jf15dzs/public_html/backend/api/saleList/getdata1.php(11): getSql('select *,\n(sele...')
+#1 {main}
+  thrown in /home/cy9j1jf15dzs/public_html/backend/lib/lib.php on line 104
+[07-Apr-2020 11:03:05 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/cy9j1jf15dzs/public_html/backend/lib/lib.php:104
+Stack trace:
+#0 /home/cy9j1jf15dzs/public_html/backend/api/saleList/getdata1.php(11): getSql('select *,\n(sele...')
+#1 {main}
+  thrown in /home/cy9j1jf15dzs/public_html/backend/lib/lib.php on line 104
+[07-Apr-2020 11:05:07 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/cy9j1jf15dzs/public_html/backend/lib/lib.php:104
+Stack trace:
+#0 /home/cy9j1jf15dzs/public_html/backend/api/saleList/getdata1.php(11): getSql('select *,\n(sele...')
+#1 {main}
+  thrown in /home/cy9j1jf15dzs/public_html/backend/lib/lib.php on line 104
+[07-Apr-2020 11:05:12 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/cy9j1jf15dzs/public_html/backend/lib/lib.php:104
+Stack trace:
+#0 /home/cy9j1jf15dzs/public_html/backend/api/saleList/getdata1.php(11): getSql('select *,\n(sele...')
+#1 {main}
+  thrown in /home/cy9j1jf15dzs/public_html/backend/lib/lib.php on line 104
+[07-Apr-2020 11:07:46 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/cy9j1jf15dzs/public_html/backend/lib/lib.php:104
+Stack trace:
+#0 /home/cy9j1jf15dzs/public_html/backend/api/saleList/getdata1.php(11): getSql('select *,\n(sele...')
+#1 {main}
+  thrown in /home/cy9j1jf15dzs/public_html/backend/lib/lib.php on line 104
+[07-Apr-2020 11:08:37 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/cy9j1jf15dzs/public_html/backend/lib/lib.php:104
+Stack trace:
+#0 /home/cy9j1jf15dzs/public_html/backend/api/saleList/getdata1.php(11): getSql('select *,\n(sele...')
+#1 {main}
+  thrown in /home/cy9j1jf15dzs/public_html/backend/lib/lib.php on line 104
+[07-Apr-2020 11:10:23 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/cy9j1jf15dzs/public_html/backend/lib/lib.php:104
+Stack trace:
+#0 /home/cy9j1jf15dzs/public_html/backend/api/saleList/getdata1.php(11): getSql('select *,\n(sele...')
+#1 {main}
+  thrown in /home/cy9j1jf15dzs/public_html/backend/lib/lib.php on line 104
+[07-Apr-2020 11:11:13 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/cy9j1jf15dzs/public_html/backend/lib/lib.php:104
+Stack trace:
+#0 /home/cy9j1jf15dzs/public_html/backend/api/saleList/getdata1.php(11): getSql('select *,\n(sele...')
+#1 {main}
+  thrown in /home/cy9j1jf15dzs/public_html/backend/lib/lib.php on line 104
+[07-Apr-2020 11:12:28 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/cy9j1jf15dzs/public_html/backend/lib/lib.php:104
+Stack trace:
+#0 /home/cy9j1jf15dzs/public_html/backend/api/saleList/getdata1.php(11): getSql('select *,\n(sele...')
+#1 {main}
+  thrown in /home/cy9j1jf15dzs/public_html/backend/lib/lib.php on line 104
+[07-Apr-2020 11:14:07 UTC] PHP Notice:  Undefined offset: 123 in /home/cy9j1jf15dzs/public_html/backend/api/saleList/insert1.php on line 12
+[07-Apr-2020 11:20:18 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/cy9j1jf15dzs/public_html/backend/lib/lib.php:105
+Stack trace:
+#0 /home/cy9j1jf15dzs/public_html/backend/api/saleList/getdata1.php(11): getSql('select *,\n(sele...')
+#1 {main}
+  thrown in /home/cy9j1jf15dzs/public_html/backend/lib/lib.php on line 105
+[07-Apr-2020 11:20:22 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/cy9j1jf15dzs/public_html/backend/lib/lib.php:105
+Stack trace:
+#0 /home/cy9j1jf15dzs/public_html/backend/api/saleList/getdata1.php(11): getSql('select *,\n(sele...')
+#1 {main}
+  thrown in /home/cy9j1jf15dzs/public_html/backend/lib/lib.php on line 105
+[07-Apr-2020 11:20:34 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/cy9j1jf15dzs/public_html/backend/lib/lib.php:105
+Stack trace:
+#0 /home/cy9j1jf15dzs/public_html/backend/api/saleList/getdata1.php(11): getSql('select *,\n(sele...')
+#1 {main}
+  thrown in /home/cy9j1jf15dzs/public_html/backend/lib/lib.php on line 105
+[07-Apr-2020 11:21:50 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/cy9j1jf15dzs/public_html/backend/lib/lib.php:105
+Stack trace:
+#0 /home/cy9j1jf15dzs/public_html/backend/api/saleList/getdata1.php(11): getSql('select *,\n(sele...')
+#1 {main}
+  thrown in /home/cy9j1jf15dzs/public_html/backend/lib/lib.php on line 105
+[07-Apr-2020 11:22:54 UTC] PHP Notice:  Undefined variable: pdo in /home/cy9j1jf15dzs/public_html/backend/api/saleList/insert1.php on line 19
+[07-Apr-2020 11:22:54 UTC] PHP Fatal error:  Uncaught Error: Call to a member function exec() on null in /home/cy9j1jf15dzs/public_html/backend/api/saleList/insert1.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/cy9j1jf15dzs/public_html/backend/api/saleList/insert1.php on line 19
+[07-Apr-2020 11:23:07 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/cy9j1jf15dzs/public_html/backend/lib/lib.php:105
+Stack trace:
+#0 /home/cy9j1jf15dzs/public_html/backend/api/saleList/getdata1.php(11): getSql('select *,\n(sele...')
+#1 {main}
+  thrown in /home/cy9j1jf15dzs/public_html/backend/lib/lib.php on line 105
+[07-Apr-2020 11:23:10 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/cy9j1jf15dzs/public_html/backend/lib/lib.php:105
+Stack trace:
+#0 /home/cy9j1jf15dzs/public_html/backend/api/saleList/getdata1.php(11): getSql('select *,\n(sele...')
+#1 {main}
+  thrown in /home/cy9j1jf15dzs/public_html/backend/lib/lib.php on line 105
+[07-Apr-2020 11:23:37 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/cy9j1jf15dzs/public_html/backend/lib/lib.php:105
+Stack trace:
+#0 /home/cy9j1jf15dzs/public_html/backend/api/saleList/getdata1.php(11): getSql('select *,\n(sele...')
+#1 {main}
+  thrown in /home/cy9j1jf15dzs/public_html/backend/lib/lib.php on line 105
+[07-Apr-2020 11:24:20 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/cy9j1jf15dzs/public_html/backend/lib/lib.php:105
+Stack trace:
+#0 /home/cy9j1jf15dzs/public_html/backend/api/saleList/getdata1.php(11): getSql('select *,\n(sele...')
+#1 {main}
+  thrown in /home/cy9j1jf15dzs/public_html/backend/lib/lib.php on line 105
+[08-Apr-2020 02:57:23 UTC] PHP Notice:  Undefined index: date1 in /home/cy9j1jf15dzs/public_html/backend/api/saleList/getdata1.php on line 18
+[08-Apr-2020 02:57:23 UTC] PHP Notice:  Undefined index: date2 in /home/cy9j1jf15dzs/public_html/backend/api/saleList/getdata1.php on line 18
+[08-Apr-2020 02:57:28 UTC] PHP Notice:  Undefined index: date1 in /home/cy9j1jf15dzs/public_html/backend/api/saleList/getdata1.php on line 18
+[08-Apr-2020 02:57:28 UTC] PHP Notice:  Undefined index: date2 in /home/cy9j1jf15dzs/public_html/backend/api/saleList/getdata1.php on line 18

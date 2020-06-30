@@ -1,0 +1,106 @@
+[18-Mar-2020 04:02:21 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetchAll() on boolean in /home/cy9j1jf15dzs/public_html/backend/lib/lib.php:76
+Stack trace:
+#0 /home/cy9j1jf15dzs/public_html/backend/api/item/getdata1.php(52): getSql('SELECT\n*\n,(sele...')
+#1 {main}
+  thrown in /home/cy9j1jf15dzs/public_html/backend/lib/lib.php on line 76
+[18-Mar-2020 08:55:03 UTC] PHP Fatal error:  Uncaught Error: Class 'Date' not found in /home/cy9j1jf15dzs/public_html/backend/api/item/insert1.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/cy9j1jf15dzs/public_html/backend/api/item/insert1.php on line 14
+[18-Mar-2020 08:55:33 UTC] PHP Notice:  Undefined index: data1 in /home/cy9j1jf15dzs/public_html/backend/api/item/insert1.php on line 31
+[18-Mar-2020 08:55:33 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/cy9j1jf15dzs/public_html/backend/api/item/insert1.php on line 31
+[18-Mar-2020 09:08:31 UTC] PHP Warning:  A non-numeric value encountered in /home/cy9j1jf15dzs/public_html/backend/api/item/insert1.php on line 32
+[18-Mar-2020 09:08:31 UTC] PHP Notice:  Undefined index: data1 in /home/cy9j1jf15dzs/public_html/backend/api/item/insert1.php on line 47
+[18-Mar-2020 09:08:31 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/cy9j1jf15dzs/public_html/backend/api/item/insert1.php on line 47
+[18-Mar-2020 09:08:43 UTC] PHP Notice:  Undefined index: data1 in /home/cy9j1jf15dzs/public_html/backend/api/item/insert1.php on line 47
+[18-Mar-2020 09:08:43 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/cy9j1jf15dzs/public_html/backend/api/item/insert1.php on line 47
+[19-Mar-2020 14:44:18 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/cy9j1jf15dzs/public_html/backend/api/item/goRand1.php on line 33
+[19-Mar-2020 14:44:18 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/cy9j1jf15dzs/public_html/backend/api/item/goRand1.php on line 33
+[19-Mar-2020 14:44:18 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/cy9j1jf15dzs/public_html/backend/api/item/goRand1.php on line 33
+[19-Mar-2020 14:44:18 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/cy9j1jf15dzs/public_html/backend/api/item/goRand1.php on line 33
+[19-Mar-2020 14:45:25 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/cy9j1jf15dzs/public_html/backend/api/item/goRand1.php on line 34
+[19-Mar-2020 14:45:25 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/cy9j1jf15dzs/public_html/backend/api/item/goRand1.php on line 34
+[19-Mar-2020 14:45:25 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/cy9j1jf15dzs/public_html/backend/api/item/goRand1.php on line 34
+[19-Mar-2020 14:45:25 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/cy9j1jf15dzs/public_html/backend/api/item/goRand1.php on line 34
+[22-Mar-2020 09:29:34 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cy9j1jf15dzs/public_html/backend/api/item/goRand1.php:50) in /home/cy9j1jf15dzs/public_html/backend/api/item/goRand1.php on line 68
+[23-Mar-2020 06:19:04 UTC] PHP Warning:  A non-numeric value encountered in /home/cy9j1jf15dzs/public_html/backend/api/item/insert1.php on line 32
+[23-Mar-2020 06:33:08 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetchAll() on boolean in /home/cy9j1jf15dzs/public_html/backend/lib/lib.php:76
+Stack trace:
+#0 /home/cy9j1jf15dzs/public_html/backend/api/item/getdata1.php(16): getSql('SELECT\n*\n,(sele...')
+#1 {main}
+  thrown in /home/cy9j1jf15dzs/public_html/backend/lib/lib.php on line 76
+[23-Mar-2020 06:39:15 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetchAll() on boolean in /home/cy9j1jf15dzs/public_html/backend/lib/lib.php:76
+Stack trace:
+#0 /home/cy9j1jf15dzs/public_html/backend/api/item/getdata1.php(16): getSql('SELECT\n*\n,(sele...')
+#1 {main}
+  thrown in /home/cy9j1jf15dzs/public_html/backend/lib/lib.php on line 76
+[23-Mar-2020 06:56:50 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetchAll() on boolean in /home/cy9j1jf15dzs/public_html/backend/lib/lib.php:76
+Stack trace:
+#0 /home/cy9j1jf15dzs/public_html/backend/api/item/getdata1.php(16): getSql('SELECT\n*\n,(sele...')
+#1 {main}
+  thrown in /home/cy9j1jf15dzs/public_html/backend/lib/lib.php on line 76
+[23-Mar-2020 06:56:58 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetchAll() on boolean in /home/cy9j1jf15dzs/public_html/backend/lib/lib.php:76
+Stack trace:
+#0 /home/cy9j1jf15dzs/public_html/backend/api/item/getdata1.php(16): getSql('SELECT\n*\n,(sele...')
+#1 {main}
+  thrown in /home/cy9j1jf15dzs/public_html/backend/lib/lib.php on line 76
+[23-Mar-2020 06:56:59 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetchAll() on boolean in /home/cy9j1jf15dzs/public_html/backend/lib/lib.php:76
+Stack trace:
+#0 /home/cy9j1jf15dzs/public_html/backend/api/item/getdata1.php(16): getSql('SELECT\n*\n,(sele...')
+#1 {main}
+  thrown in /home/cy9j1jf15dzs/public_html/backend/lib/lib.php on line 76
+[27-Mar-2020 09:58:08 UTC] PHP Warning:  A non-numeric value encountered in /home/cy9j1jf15dzs/public_html/backend/api/item/insert1.php on line 32
+[27-Mar-2020 09:58:11 UTC] PHP Warning:  A non-numeric value encountered in /home/cy9j1jf15dzs/public_html/backend/api/item/insert1.php on line 32
+[27-Mar-2020 09:58:13 UTC] PHP Warning:  A non-numeric value encountered in /home/cy9j1jf15dzs/public_html/backend/api/item/insert1.php on line 32
+[28-Mar-2020 08:09:36 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetchAll() on boolean in /home/cy9j1jf15dzs/public_html/backend/lib/lib.php:76
+Stack trace:
+#0 /home/cy9j1jf15dzs/public_html/backend/api/item/getdata1.php(131): getSql('SELECT\n*,\n(sele...')
+#1 {main}
+  thrown in /home/cy9j1jf15dzs/public_html/backend/lib/lib.php on line 76
+[28-Mar-2020 08:09:49 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetchAll() on boolean in /home/cy9j1jf15dzs/public_html/backend/lib/lib.php:76
+Stack trace:
+#0 /home/cy9j1jf15dzs/public_html/backend/api/item/getdata1.php(131): getSql('SELECT\n*,\n(sele...')
+#1 {main}
+  thrown in /home/cy9j1jf15dzs/public_html/backend/lib/lib.php on line 76
+[28-Mar-2020 09:59:38 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cy9j1jf15dzs/public_html/backend/api/item/goRand1.php:69) in /home/cy9j1jf15dzs/public_html/backend/api/item/goRand1.php on line 80
+[28-Mar-2020 10:01:05 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cy9j1jf15dzs/public_html/backend/api/item/goRand1.php:69) in /home/cy9j1jf15dzs/public_html/backend/api/item/goRand1.php on line 80
+[08-Apr-2020 04:02:18 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/cy9j1jf15dzs/public_html/backend/lib/lib.php:105
+Stack trace:
+#0 /home/cy9j1jf15dzs/public_html/backend/api/item/getdata1.php(16): getSql('SELECT\n*\n,(sele...')
+#1 {main}
+  thrown in /home/cy9j1jf15dzs/public_html/backend/lib/lib.php on line 105
+[08-Apr-2020 04:16:11 UTC] PHP Notice:  Undefined index: systemId in /home/cy9j1jf15dzs/public_html/backend/api/item/getdata1.php on line 13
+[08-Apr-2020 04:16:16 UTC] PHP Notice:  Undefined index: systemId in /home/cy9j1jf15dzs/public_html/backend/api/item/getdata1.php on line 13
+[08-Apr-2020 04:16:58 UTC] PHP Notice:  Undefined variable: data1 in /home/cy9j1jf15dzs/public_html/backend/api/item/getdata1.php on line 264
+[08-Apr-2020 04:16:58 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/cy9j1jf15dzs/public_html/backend/api/item/getdata1.php on line 264
+[08-Apr-2020 04:16:58 UTC] PHP Notice:  Undefined variable: data1 in /home/cy9j1jf15dzs/public_html/backend/api/item/getdata1.php on line 264
+[08-Apr-2020 04:16:58 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/cy9j1jf15dzs/public_html/backend/api/item/getdata1.php on line 264
+[08-Apr-2020 04:19:02 UTC] PHP Notice:  Undefined variable: data1 in /home/cy9j1jf15dzs/public_html/backend/api/item/getdata1.php on line 264
+[08-Apr-2020 04:19:02 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/cy9j1jf15dzs/public_html/backend/api/item/getdata1.php on line 264
+[08-Apr-2020 04:19:02 UTC] PHP Notice:  Undefined variable: data1 in /home/cy9j1jf15dzs/public_html/backend/api/item/getdata1.php on line 264
+[08-Apr-2020 04:19:02 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/cy9j1jf15dzs/public_html/backend/api/item/getdata1.php on line 264
+[08-Apr-2020 04:19:36 UTC] PHP Notice:  Undefined variable: data1 in /home/cy9j1jf15dzs/public_html/backend/api/item/getdata1.php on line 212
+[08-Apr-2020 04:19:36 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/cy9j1jf15dzs/public_html/backend/api/item/getdata1.php on line 212
+[08-Apr-2020 04:19:36 UTC] PHP Notice:  Undefined variable: data1 in /home/cy9j1jf15dzs/public_html/backend/api/item/getdata1.php on line 212
+[08-Apr-2020 04:19:36 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/cy9j1jf15dzs/public_html/backend/api/item/getdata1.php on line 212
+[08-Apr-2020 05:53:55 UTC] PHP Fatal error:  Uncaught Error: Call to a member function execute() on boolean in /home/cy9j1jf15dzs/public_html/backend/api/item/insert1.php:68
+Stack trace:
+#0 {main}
+  thrown in /home/cy9j1jf15dzs/public_html/backend/api/item/insert1.php on line 68
+[11-Apr-2020 15:45:12 Asia/Taipei] PHP Fatal error:  Uncaught Error: Call to a member function execute() on boolean in /home/cy9j1jf15dzs/public_html/backend/api/itemOwner/update1.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/cy9j1jf15dzs/public_html/backend/api/itemOwner/update1.php on line 26
+[11-Apr-2020 15:46:02 Asia/Taipei] PHP Fatal error:  Uncaught Error: Call to a member function execute() on boolean in /home/cy9j1jf15dzs/public_html/backend/api/itemOwner/update1.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/cy9j1jf15dzs/public_html/backend/api/itemOwner/update1.php on line 26
+[11-Apr-2020 15:48:06 Asia/Taipei] PHP Fatal error:  Uncaught Error: Call to a member function execute() on boolean in /home/cy9j1jf15dzs/public_html/backend/api/itemOwner/update1.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/cy9j1jf15dzs/public_html/backend/api/itemOwner/update1.php on line 26
+[11-Apr-2020 17:12:11 Asia/Taipei] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/cy9j1jf15dzs/public_html/backend/lib/lib.php:107
+Stack trace:
+#0 /home/cy9j1jf15dzs/public_html/backend/api/itemOwner/goRand1.php(17): getSql('select * from i...')
+#1 {main}
+  thrown in /home/cy9j1jf15dzs/public_html/backend/lib/lib.php on line 107

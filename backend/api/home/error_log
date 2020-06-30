@@ -1,0 +1,65 @@
+[17-Mar-2020 07:57:47 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetchAll() on boolean in /home/cy9j1jf15dzs/public_html/backend/lib/lib.php:76
+Stack trace:
+#0 /home/cy9j1jf15dzs/public_html/backend/api/home/getdata1.php(11): getSql('select *,\n(sele...')
+#1 {main}
+  thrown in /home/cy9j1jf15dzs/public_html/backend/lib/lib.php on line 76
+[17-Mar-2020 07:57:49 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetchAll() on boolean in /home/cy9j1jf15dzs/public_html/backend/lib/lib.php:76
+Stack trace:
+#0 /home/cy9j1jf15dzs/public_html/backend/api/home/getdata1.php(11): getSql('select *,\n(sele...')
+#1 {main}
+  thrown in /home/cy9j1jf15dzs/public_html/backend/lib/lib.php on line 76
+[17-Mar-2020 07:59:06 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetchAll() on boolean in /home/cy9j1jf15dzs/public_html/backend/lib/lib.php:76
+Stack trace:
+#0 /home/cy9j1jf15dzs/public_html/backend/api/home/getdata1.php(11): getSql('select *,\n(sele...')
+#1 {main}
+  thrown in /home/cy9j1jf15dzs/public_html/backend/lib/lib.php on line 76
+[17-Mar-2020 07:59:13 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetchAll() on boolean in /home/cy9j1jf15dzs/public_html/backend/lib/lib.php:76
+Stack trace:
+#0 /home/cy9j1jf15dzs/public_html/backend/api/home/getdata1.php(11): getSql('select *,\n(sele...')
+#1 {main}
+  thrown in /home/cy9j1jf15dzs/public_html/backend/lib/lib.php on line 76
+[17-Mar-2020 07:59:32 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetchAll() on boolean in /home/cy9j1jf15dzs/public_html/backend/lib/lib.php:76
+Stack trace:
+#0 /home/cy9j1jf15dzs/public_html/backend/api/home/getdata1.php(11): getSql('select *,\n(sele...')
+#1 {main}
+  thrown in /home/cy9j1jf15dzs/public_html/backend/lib/lib.php on line 76
+[17-Mar-2020 07:59:51 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetchAll() on boolean in /home/cy9j1jf15dzs/public_html/backend/lib/lib.php:76
+Stack trace:
+#0 /home/cy9j1jf15dzs/public_html/backend/api/home/getdata1.php(11): getSql('select *,\n(sele...')
+#1 {main}
+  thrown in /home/cy9j1jf15dzs/public_html/backend/lib/lib.php on line 76
+[17-Mar-2020 07:59:54 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetchAll() on boolean in /home/cy9j1jf15dzs/public_html/backend/lib/lib.php:76
+Stack trace:
+#0 /home/cy9j1jf15dzs/public_html/backend/api/home/getdata1.php(11): getSql('select *,\n(sele...')
+#1 {main}
+  thrown in /home/cy9j1jf15dzs/public_html/backend/lib/lib.php on line 76
+[17-Mar-2020 08:00:23 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetchAll() on boolean in /home/cy9j1jf15dzs/public_html/backend/lib/lib.php:76
+Stack trace:
+#0 /home/cy9j1jf15dzs/public_html/backend/api/home/getdata1.php(11): getSql('select *,\n(sele...')
+#1 {main}
+  thrown in /home/cy9j1jf15dzs/public_html/backend/lib/lib.php on line 76
+[17-Mar-2020 08:00:30 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetchAll() on boolean in /home/cy9j1jf15dzs/public_html/backend/lib/lib.php:76
+Stack trace:
+#0 /home/cy9j1jf15dzs/public_html/backend/api/home/getdata1.php(11): getSql('select *,\n(sele...')
+#1 {main}
+  thrown in /home/cy9j1jf15dzs/public_html/backend/lib/lib.php on line 76
+[08-Apr-2020 02:35:36 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/cy9j1jf15dzs/public_html/backend/lib/lib.php:105
+Stack trace:
+#0 /home/cy9j1jf15dzs/public_html/backend/api/home/getdata1.php(14): getSql('select *,\n(sele...')
+#1 {main}
+  thrown in /home/cy9j1jf15dzs/public_html/backend/lib/lib.php on line 105
+[08-Apr-2020 02:35:49 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/cy9j1jf15dzs/public_html/backend/lib/lib.php:105
+Stack trace:
+#0 /home/cy9j1jf15dzs/public_html/backend/api/home/getdata1.php(14): getSql('select *,\n(sele...')
+#1 {main}
+  thrown in /home/cy9j1jf15dzs/public_html/backend/lib/lib.php on line 105
+[20-Apr-2020 05:53:18 Asia/Taipei] PHP Notice:  Undefined index: date1 in /home/cy9j1jf15dzs/public_html/backend/api/home/getdata1.php on line 16
+[20-Apr-2020 05:53:18 Asia/Taipei] PHP Notice:  Undefined index: date2 in /home/cy9j1jf15dzs/public_html/backend/api/home/getdata1.php on line 16
+[02-May-2020 06:42:34 Asia/Taipei] PHP Notice:  Undefined index: date1 in /home/cy9j1jf15dzs/public_html/backend/api/home/getdata1.php on line 16
+[02-May-2020 06:42:34 Asia/Taipei] PHP Notice:  Undefined index: date2 in /home/cy9j1jf15dzs/public_html/backend/api/home/getdata1.php on line 16
+[21-May-2020 14:28:11 Asia/Taipei] PHP Notice:  Undefined index: date1 in /home/cy9j1jf15dzs/public_html/backend/api/home/getdata1.php on line 16
+[21-May-2020 14:28:11 Asia/Taipei] PHP Notice:  Undefined index: date2 in /home/cy9j1jf15dzs/public_html/backend/api/home/getdata1.php on line 16
+[17-Jun-2020 08:26:19 Asia/Taipei] PHP Notice:  Undefined index: date1 in /home/cy9j1jf15dzs/public_html/backend/api/home/getdata1.php on line 16
+[17-Jun-2020 08:26:19 Asia/Taipei] PHP Notice:  Undefined index: date2 in /home/cy9j1jf15dzs/public_html/backend/api/home/getdata1.php on line 16
+[18-Jun-2020 11:34:51 Asia/Taipei] PHP Notice:  Undefined index: date1 in /home/cy9j1jf15dzs/public_html/backend/api/home/getdata1.php on line 16
+[18-Jun-2020 11:34:51 Asia/Taipei] PHP Notice:  Undefined index: date2 in /home/cy9j1jf15dzs/public_html/backend/api/home/getdata1.php on line 16
